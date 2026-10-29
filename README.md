@@ -1,5 +1,8 @@
 # If and Switch Exercises
 
+> **Exercises have moved:** New Java exercises are maintained in [Java Fundamentals](https://github.com/omarsy-source/Java-Loop). This repository remains as a historical reference.
+
+
 Repository intended for Java exercises about `if` conditions and `switch` statements.
 
 ## Current status
